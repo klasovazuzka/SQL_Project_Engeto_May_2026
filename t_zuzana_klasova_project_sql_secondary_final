@@ -1,8 +1,8 @@
--- Náhled datasetu (tabulek) --
+-- Dataset preview (tables) --
 SELECT *
 FROM countries c;
 
--- Omezení tabulky pouze na EU státy --
+-- Filtering the table to EU countries only --
 SELECT *
 FROM countries c 
 WHERE continent = 'Europe'
@@ -18,7 +18,6 @@ SELECT
 	WHERE YEAR >= 2000;
 ------------------------------------------------------------------------------
 
--- Zadani: Vytvorte tabulku pro dodatečná data o dalších evropských státech --
 -- Vytvoreni tabulky t_zuzana_klasova_project_sql_secondary_final --
 
 CREATE TABLE t_zuzana_klasova_project_sql_secondary_final AS 
