@@ -11,28 +11,32 @@ AND country IS NOT NULL;
 SELECT *
 FROM economies e;
 
---- Z tabulky me zajimaji jen nektere udaje: zeme, populace, gdp, gini, rok ---
-SELECT 
-	e.country, e.population, e.YEAR, e.gdp, e.gini
-	FROM economies e
-	WHERE YEAR >= 2000;
+--- Only selected columns from the table are relevant: country, population, gdp, gini, year ---
+SELECT
+    e.country, e.population, e.YEAR, e.gdp, e.gini
+FROM economies e
+WHERE YEAR BETWEEN 2006 AND 2018;
 ------------------------------------------------------------------------------
 
--- Vytvoreni tabulky t_zuzana_klasova_project_sql_secondary_final --
+----- Dropping any existing table with the same name and creating the secondary table t_zuzana_klasova_project_sql_secondary_final ------
 
-CREATE TABLE t_zuzana_klasova_project_sql_secondary_final AS 
-SELECT t1.continent, country_countries, country_economy, t2.YEAR, t2.gdp, t2.gini, t2.population
-FROM (	
-	SELECT c.country AS country_countries, c.continent
-	FROM countries c 
-	WHERE continent = 'Europe'
-	AND c.country IS NOT NULL) t1
-LEFT JOIN (
-	SELECT e.country AS country_economy, e.population, e.YEAR, e.gdp, e.gini
-	FROM economies e
-	WHERE YEAR >= 2000 ) t2 
-ON country_countries = country_economy;
-----------------------------------------------------------------------
-SELECT *
-FROM t_zuzana_klasova_project_sql_secondary_final;
+DROP TABLE IF EXISTS t_zuzana_klasova_project_sql_secondary_final;
 
+CREATE TABLE t_zuzana_klasova_project_sql_secondary_final AS
+SELECT 
+    e.country,
+    e.year,
+    ROUND(e.gdp::numeric, 2) AS gdp_rounded, --function ::numeric = I want a precise decimal number, not a rounded integer.--
+    e.gini,
+    ROUND(e.taxes::NUMERIC, 2) AS taxes_rounded,
+    c.continent
+FROM economies e
+JOIN countries c ON e.country = c.country
+WHERE c.continent = 'Europe' 
+  AND e.year BETWEEN 2006 AND 2018 
+  AND e.country != 'Czech Republic'
+  AND e.gdp IS NOT NULL 
+ORDER BY e.country, e.year;
+
+-- Check result --
+SELECT * FROM t_zuzana_klasova_project_sql_secondary_final;
