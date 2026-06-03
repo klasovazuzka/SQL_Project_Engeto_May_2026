@@ -1,31 +1,20 @@
---Náhled primární tabulky--
+-- Dataset preview (tables) --
 SELECT * 
 FROM t_zuzana_klasova_project_SQL_primary_final;
-----------------------------------------------------------------------------------------------------------------------------------------------
--- 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? --
--- Zjištění prvního a posledního roku přímo z primární tabulky --
-WITH min_max_years AS (
-    SELECT 
-        MIN(year) AS min_year,
-        MAX(year) AS max_year
-    FROM t_zuzana_klasova_project_sql_primary_final
-    -- beru jen roky, kde mám jak mzdy, tak ceny --
-    WHERE avg_price IS NOT NULL AND avg_wage IS NOT NULL
-)
+------------------------------------------------------------------------------------------------
+-- Question 2: How many liters of milk and kilograms of bread can be bought 
+-- in the first and last comparable period in the available price and wage data? --
 SELECT 
-    year AS rok,
-    food_category AS potravina,
-    -- Zprůměruju cenu a mzdu pro jistotu, kdyby tam bylo více záznamů za odvětví --
-    ROUND(AVG(avg_price)::numeric, 2) AS cena_za_jednotku,
-    ROUND(AVG(avg_wage)::numeric, 0) AS prumerna_mzda,
-    -- Samotný výpočet koupěschopnosti --
-    ROUND((AVG(avg_wage) / AVG(avg_price))::numeric, 0) AS kolik_si_koupim
+    year, 
+    food_category,
+    ROUND(AVG(avg_wage) / AVG(avg_price)) AS purchasing_power
 FROM t_zuzana_klasova_project_sql_primary_final
-WHERE year IN (
-    (SELECT min_year FROM min_max_years),
-    (SELECT max_year FROM min_max_years)
-)
--- Vyfiltruji jen chleba a mléko (přesné názvy Mléko polotučné pasterované,Chléb konzumní kmínový)
-AND food_category IN ('Mléko polotučné pasterované', 'Chléb konzumní kmínový')
-GROUP BY year, food_category
+WHERE year IN (2006, 2018)
+AND (food_category ILIKE 'Chléb%' OR food_category ILIKE 'Mléko%') --The ILIKE values ('Chléb%' and 'Mléko%') remain in Czech because the data stored in the food_category column is still in Czech.--
+GROUP BY food_category, year
 ORDER BY food_category, year;
+
+---- Check food category names ---
+SELECT DISTINCT food_category 
+FROM t_zuzana_klasova_project_sql_primary_final
+WHERE food_category ILIKE 'Chléb%' OR food_category ILIKE 'Mléko%';
