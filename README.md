@@ -40,17 +40,20 @@ Výstupem analýzy je sada SQL skriptů (Question 1-5.sql) a dvě finální data
 ## **Výzkumné otázky a odpovědi**:
 
 *1) Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?*
+
 Celkově mzdy v čase rostou napříč všemi odvětvími. Nicméně v krátkodobém horizontu lze zaznamenat výjimky — například okolo roku 2013 došlo v některých odvětvích k meziročnímu poklesu. Nejvíce to pocítily sektory jako těžba, energetika a finanční služby, kde se hospodářský cyklus projevil dočasným snížením mezd.
-
-Nejvýraznější propady v datech:
-
-Největší meziroční propad postihl odvětví Peněžnictví a pojišťovnictví v roce 2008, kdy průměrná mzda klesla o citelných 12 271 Kč (z 54 059 Kč na 41 788 Kč). Toto odvětví zaznamenalo další poklesy také v letech 2010 (o 7 994 Kč) a 2013 (o 8 995 Kč). Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu zaznamenala druhý největší propad, a to v roce 2012, kdy průměrná mzda klesla o 11 397 Kč. Odvětví Těžba a dobývání vykazovalo poklesy opakovaně, přičemž nejvýrazněji v roce 2009 (o 9 579 Kč) a v roce 2008 (o 9 391 Kč).
 
 Mzdy v dlouhodobém horizontu sice všude vzrostly, ale v průběhu let byla řada odvětví (zejména finanční sektor, energetika a těžký průmysl) zasažena ekonomickými výkyvy, které vedly k velkým meziročním propadům.
 
-Během sledovaného období (r. 2006–2018) se celková kupní síla a dostupnost obou základních potravin zlepšila. Ačkoliv absolutní ceny chleba i mléka vzrostly, průměrná mzda stoupala rychlejším tempem. Díky tomu si průměrně vydělávající občan mohl v roce 2018 ze své výplaty koupit o 52 kg chleba (celkem 1 365 kg) a o 204 litrů mléka (celkem 1 670 l) více než na začátku srovnatelného období v roce 2006.
+*2)Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?*
 
-Na základě provedené analýzy dat je kategorií potravin, která zdražuje nejpomaleji, vepřová pečeně s kostí, u níž je průměrný meziroční nárůst ceny jen 0,1 %.
+Srovnáme-li roky 2006 a 2018, kupní síla obyvatel se u obou potravin zvýšila. V roce 2006 průměrná mzda pokryla nákup přibližně 1460 litrů mléka nebo 1308 kilogramů chleba. O dvanáct let později, v roce 2018, to bylo již 1667 litrů mléka a 1363 kilogramů chleba — obyvatelé si tedy mohli dovolit více.
+
+*3)Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?*
+
+Z analyzovaných kategorií vykazuje nejnižší průměrný meziroční nárůst cen Cukr krystalový. Jeho cena rostla v průběhu sledovaného období nejpomaleji ze všech sledovaných potravin.
+
+*4)Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?*
 
 Na základě analyzovaných dat neexistuje ve sledovaném období (r.2007–2018) žádný rok, ve kterém by meziroční nárůst cen potravin převýšil růst mezd o více než 10 %. Největší rozdíl byl zaznamenán v roce 2013, kdy ceny rostly o 7,11 % rychleji než mzdy, ale ani zde nebyla desetiprocentní hranice překročena.
 
@@ -62,10 +65,8 @@ Při výrazných ekonomických šocích se vliv projevuje téměř okamžitě. P
 
 Na druhou stranu data obsahují i výjimky, jako například rok 2015, kdy HDP rostlo významným tempem (5,39 %), avšak ceny potravin ve stejném roce mírně klesly a mzdy rostly jen pozvolna. Růst HDP tedy zpravidla vytváří prostor pro růst mezd a cen, ale nemusí se to nutně a v plné síle projevit ve stejném nebo bezprostředně následujícím roce.
 
-*2)Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?*
 
-*3)Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?*
 
-*4)Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?*
+
 
 *5)Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?*
