@@ -23,6 +23,3 @@ SELECT
     wage_in_year - LAG(wage_in_year) OVER (PARTITION BY industry_branch ORDER BY year) AS difference_in_czk
 FROM wages_over_time
 ORDER BY difference_in_czk;
-
- --
-ORDER BY mezirocni_rozdil_czk ASC;
