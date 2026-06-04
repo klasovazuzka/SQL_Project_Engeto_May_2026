@@ -37,8 +37,9 @@ Výstupem analýzy je sada SQL skriptů (Question 1-5.sql) a dvě finální data
 
 # 📊 Výzkumné otázky a závěry analýzy
 
-## **Odpovědi**:
+## **Výzkumné otázky a odpovědi**:
 
+*1)Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?*
 Pokud porovnáme jen počáteční rok 2007 a konečný rok 2018, průměrné mzdy vzrostly ve všech sledovaných odvětvích.
 Pokud se však zaměříme na meziroční vývoj v průběhu let, mzdy nepřetržitě nerostly a v některých odvětvích v určitých letech i klesaly.(např.: Peněžnictví a pojišťovnictví,Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu,Těžba a dobývání)
 
@@ -61,3 +62,11 @@ Na základě analyzovaných dat lze konstatovat, že vývoj HDP má prokazateln�
 Při výrazných ekonomických šocích se vliv projevuje téměř okamžitě. Příkladem je rok 2009, kdy razantní propad HDP (-4,66 %) korespondoval s výrazným zlevněním potravin (-6,81 %) a zpomalením růstu mezd. Stejně tak v období silného růstu v roce 2017 (růst HDP o 5,17 %) vidíme souběžný prudký nárůst cen potravin (téměř 10 %) i rychlejší růst mezd (6,17 %).
 
 Na druhou stranu data obsahují i výjimky, jako například rok 2015, kdy HDP rostlo významným tempem (5,39 %), avšak ceny potravin ve stejném roce mírně klesly a mzdy rostly jen pozvolna. Růst HDP tedy zpravidla vytváří prostor pro růst mezd a cen, ale nemusí se to nutně a v plné síle projevit ve stejném nebo bezprostředně následujícím roce.
+
+*2)Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?*
+
+*3)Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?*
+
+*4)Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?*
+
+*5)Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?*
