@@ -39,9 +39,8 @@ Výstupem analýzy je sada SQL skriptů (Question 1-5.sql) a dvě finální data
 
 ## **Výzkumné otázky a odpovědi**:
 
-*1)Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?*
-Pokud porovnáme jen počáteční rok 2007 a konečný rok 2018, průměrné mzdy vzrostly ve všech sledovaných odvětvích.
-Pokud se však zaměříme na meziroční vývoj v průběhu let, mzdy nepřetržitě nerostly a v některých odvětvích v určitých letech i klesaly.(např.: Peněžnictví a pojišťovnictví,Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu,Těžba a dobývání)
+*1) Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?*
+Celkově mzdy v čase rostou napříč všemi odvětvími. Nicméně v krátkodobém horizontu lze zaznamenat výjimky — například okolo roku 2013 došlo v některých odvětvích k meziročnímu poklesu. Nejvíce to pocítily sektory jako těžba, energetika a finanční služby, kde se hospodářský cyklus projevil dočasným snížením mezd.
 
 Nejvýraznější propady v datech:
 
