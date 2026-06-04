@@ -45,11 +45,11 @@ Celkově mzdy v čase rostou napříč všemi odvětvími. Nicméně v krátkodo
 
 Mzdy v dlouhodobém horizontu sice všude vzrostly, ale v průběhu let byla řada odvětví (zejména finanční sektor, energetika a těžký průmysl) zasažena ekonomickými výkyvy, které vedly k velkým meziročním propadům.
 
-*2)Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?*
+*2) Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?*
 
 Srovnáme-li roky 2006 a 2018, kupní síla obyvatel se u obou potravin zvýšila. V roce 2006 průměrná mzda pokryla nákup přibližně 1460 litrů mléka nebo 1308 kilogramů chleba. O dvanáct let později, v roce 2018, to bylo již 1667 litrů mléka a 1363 kilogramů chleba — obyvatelé si tedy mohli dovolit více.
 
-*3)Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?*
+*3) Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?*
 
 Z analyzovaných kategorií vykazuje nejnižší průměrný meziroční nárůst cen Cukr krystalový. Jeho cena rostla v průběhu sledovaného období nejpomaleji ze všech sledovaných potravin.
 
