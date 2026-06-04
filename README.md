@@ -51,7 +51,7 @@ Srovnáme-li roky 2006 a 2018, kupní síla obyvatel se u obou potravin zvýšil
 
 *3) Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?*
 
-Z analyzovaných kategorií vykazuje nejnižší průměrný meziroční nárůst cen Cukr krystalový. Jeho cena rostla v průběhu sledovaného období nejpomaleji ze všech sledovaných potravin.
+Z analyzovaných kategorií vykazuje nejnižší průměrný meziroční nárůst cen *Cukr krystalový*. Jeho cena rostla v průběhu sledovaného období nejpomaleji ze všech sledovaných potravin.
 
 *4)Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?*
 
