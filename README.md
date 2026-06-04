@@ -70,9 +70,9 @@ Z dostupných dat nelze potvrdit přímou a předvídatelnou závislost mezi rů
 Na základě dat lze říci:
 Data nepotrzují přímou závislost mezi HDP a mzdami/cenami potravin. Několik příkladů:
 
-*2009*: HDP kleslo o -4.66 %, přesto mzdy rostly o +3.07 % a ceny potravin naopak klesly o -6.81 %
-*2012*: HDP kleslo o -0.79 %, ale ceny potravin výrazně rostly o +6.92 %
-*2013*: HDP bylo téměř nulové (-0.05 %), mzdy klesly o -1.56 %, ceny potravin přesto rostly o +5.55 %
-*2017*: HDP rostlo o +5.17 % a mzdy i ceny reagovaly růstem (+6.17 % a +9.98 %)
+1.*2009*: HDP kleslo o -4.66 %, přesto mzdy rostly o +3.07 % a ceny potravin naopak klesly o -6.81 %
+2.*2012*: HDP kleslo o -0.79 %, ale ceny potravin výrazně rostly o +6.92 %
+3.*2013*: HDP bylo téměř nulové (-0.05 %), mzdy klesly o -1.56 %, ceny potravin přesto rostly o +5.55 %
+4.*2017*: HDP rostlo o +5.17 % a mzdy i ceny reagovaly růstem (+6.17 % a +9.98 %)
 
 Z dat vyplývá, že výška HDP nemá jednoznačný a přímý vliv na vývoj mezd ani cen potravin. V některých letech jako například 2017 lze pozorovat souběžný růst všech tří ukazatelů, avšak v jiných letech jako 2009 nebo 2012 se ukazatele vyvíjely zcela odlišně nebo dokonce protichůdně. Data tedy nepodporují závěr, že by růst HDP automaticky způsoboval výraznější růst mezd či cen potravin ve stejném nebo následujícím roce.
