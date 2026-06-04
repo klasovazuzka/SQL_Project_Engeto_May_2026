@@ -19,25 +19,25 @@ Pro vypracování analýzy byly využity sady z Portálu otevřených dat ČR a 
 *czechia_price_category* – Číselník kategorií potravin, které se vyskytují v přehledu.  
 
 ## Číselníky sdílených informací o ČR
-czechia_region – Číselník krajů ČR dle normy CZ-NUTS 2.  
+*czechia_region* – Číselník krajů ČR dle normy CZ-NUTS 2.  
 
-czechia_district – Číselník okresů ČR dle normy LAU.  
+*czechia_district* – Číselník okresů ČR dle normy LAU.  
 
 ## Dodatečné tabulky
-countries – Geografické a kulturní informace o zemích (hlavní město, měna, národní jídlo, průměrná výška populace).  
+*countries* – Geografické a kulturní informace o zemích (hlavní město, měna, národní jídlo, průměrná výška populace).  
 
-economies – Makroekonomické ukazatele (HDP, GINI, daňová zátěž) pro daný stát a rok.  
+*economies* – Makroekonomické ukazatele (HDP, GINI, daňová zátěž) pro daný stát a rok.  
 
 ## 🎯 Výstupy projektu
-Výstupem analýzy je sada SQL skriptů a dvě finální databázové tabulky sloužící jako podklad pro zodpovězení výzkumných otázek:  
+Výstupem analýzy je sada SQL skriptů (Question 1-5.sql) a dvě finální databázové tabulky sloužící jako podklad pro zodpovězení výzkumných otázek:  
 
-t_zuzana_klasova_project_SQL_primary_final – Sjednocená data mezd a cen potravin za ČR za totožné porovnatelné období (společné roky).
+**t_zuzana_klasova_project_SQL_primary_final** – Sjednocená data mezd a cen potravin za ČR za totožné porovnatelné období (společné roky).
 
-t_zuzana_klasova_project_SQL_secondary_final – Dodatečná makroekonomická data o dalších evropských státech.
+**t_zuzana_klasova_project_SQL_secondary_final** – Dodatečná makroekonomická data o dalších evropských státech.
 
 # 📊 Výzkumné otázky a závěry analýzy
 
----- Odpovědi:
+## **Odpovědi**:
 
 Pokud porovnáme jen počáteční rok 2007 a konečný rok 2018, průměrné mzdy vzrostly ve všech sledovaných odvětvích.
 Pokud se však zaměříme na meziroční vývoj v průběhu let, mzdy nepřetržitě nerostly a v některých odvětvích v určitých letech i klesaly.(např.: Peněžnictví a pojišťovnictví,Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu,Těžba a dobývání)
