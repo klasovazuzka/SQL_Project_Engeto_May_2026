@@ -4,7 +4,7 @@ WITH yearly_changes AS (
     SELECT 
         food_category,
         avg_price,
-        -- Get price from previous year
+        -- Get price from previous year --
         LAG(avg_price) OVER (PARTITION BY food_category ORDER BY year) AS prev_year_price
     FROM t_zuzana_klasova_project_sql_primary_final
 )
