@@ -53,15 +53,9 @@ Srovnáme-li roky 2006 a 2018, kupní síla obyvatel se u obou potravin zvýšil
 
 Z analyzovaných kategorií vykazuje nejnižší průměrný meziroční nárůst cen **Cukr krystalový**. Jeho cena rostla v průběhu sledovaného období nejpomaleji ze všech sledovaných potravin.
 
-*4)Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?*
+*4) Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?*
 
-Na základě analyzovaných dat neexistuje ve sledovaném období (r.2007–2018) žádný rok, ve kterém by meziroční nárůst cen potravin převýšil růst mezd o více než 10 %. Největší rozdíl byl zaznamenán v roce 2013, kdy ceny rostly o 7,11 % rychleji než mzdy, ale ani zde nebyla desetiprocentní hranice překročena.
-
-Výrazný pokles HDP v roce 2009 (o -4,66 %) se okamžitě projevil propadem cen potravin (o -6,81 %) a zpomalením růstu mezd (spadly z více než 7% růstu v předchozích letech na 3,07 %). Výrazný růst HDP v roce 2017 (5,17 %) byl provázen silným nárůstem cen potravin (9,98 %) a růstem mezd (6,17 %), který pak ještě akceleroval v roce 2018 na 7,7 %. Ukazuje se, že HDP není jediným hybatelem. V roce 2015 HDP rostlo velmi rychle (5,39 %), ale ceny potravin naopak klesaly (-0,56 %) a růst mezd byl spíše mírný (2,6 %).
-
-
-Na druhou stranu data obsahují i výjimky, jako například rok 2015, kdy HDP rostlo významným tempem (5,39 %), avšak ceny potravin ve stejném roce mírně klesly a mzdy rostly jen pozvolna. Růst HDP tedy zpravidla vytváří prostor pro růst mezd a cen, ale nemusí se to nutně a v plné síle projevit ve stejném nebo bezprostředně následujícím roce.
-
+Z analýzy dat vyplývá, že k tak výraznému rozdílu mezi růstem cen potravin a mezd nikdy nedošlo. Hranice 10 % nebyla překročena v žádném sledovaném roce. Nejnapjatější situace nastala v roce 2013, kdy mzdy mírně klesly a ceny potravin současně rostly. Zcela opačný scénář přinesl rok 2009, kdy prudký pokles cen potravin umožnil mzdám výrazně předstihnout zdražování. Celkově tedy data ukazují, že kupní síla obyvatel byla ve sledovaném období relativně chráněna a k žádnému dramatickému propadu nedošlo.
 
 *5) Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?*
 
