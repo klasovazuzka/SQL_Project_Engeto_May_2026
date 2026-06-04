@@ -16,7 +16,7 @@ SELECT
     e.country, e.population, e.YEAR, e.gdp, e.gini
 FROM economies e
 WHERE YEAR BETWEEN 2006 AND 2018;
-------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
 ----- Dropping any existing table with the same name and creating the secondary table t_zuzana_klasova_project_sql_secondary_final ------
 
@@ -26,7 +26,7 @@ CREATE TABLE t_zuzana_klasova_project_sql_secondary_final AS
 SELECT 
     e.country,
     e.year,
-    ROUND(e.gdp::numeric, 2) AS gdp_rounded, --function ::numeric = I want a precise decimal number, not a rounded integer.--
+    ROUND(e.gdp::numeric, 2) AS gdp_rounded,
     e.gini,
     ROUND(e.taxes::NUMERIC, 2) AS taxes_rounded,
     c.continent
@@ -34,7 +34,6 @@ FROM economies e
 JOIN countries c ON e.country = c.country
 WHERE c.continent = 'Europe' 
   AND e.year BETWEEN 2006 AND 2018 
-  AND e.country != 'Czech Republic'
   AND e.gdp IS NOT NULL 
 ORDER BY e.country, e.year;
 
