@@ -3,7 +3,7 @@ Na analytickém oddělení nezávislé společnosti zabývající se životní �
 
 Součástí analýzy je i srovnání makroekonomických ukazatelů (HDP, GINI koeficient, populace) s dalšími evropskými státy ve stejném období.
 
-# 🗂 Datové podklady
+# Datové podklady
 Pro vypracování analýzy byly využity sady z Portálu otevřených dat ČR a další globální databáze.
 
 ## Primární tabulky
@@ -28,14 +28,14 @@ Pro vypracování analýzy byly využity sady z Portálu otevřených dat ČR a 
 
 *economies* – Makroekonomické ukazatele (HDP, GINI, daňová zátěž) pro daný stát a rok.  
 
-## 🎯 Výstupy projektu
+## Výstupy projektu
 Výstupem analýzy je sada SQL skriptů (Question 1-5.sql) a dvě finální databázové tabulky sloužící jako podklad pro zodpovězení výzkumných otázek:  
 
 **t_zuzana_klasova_project_SQL_primary_final** – Sjednocená data mezd a cen potravin za ČR za totožné porovnatelné období (společné roky).
 
 **t_zuzana_klasova_project_SQL_secondary_final** – Dodatečná makroekonomická data o dalších evropských státech.
 
-# 📊 Výzkumné otázky a závěry analýzy
+# Výzkumné otázky a závěry analýzy
 
 ## **Výzkumné otázky a odpovědi**:
 
