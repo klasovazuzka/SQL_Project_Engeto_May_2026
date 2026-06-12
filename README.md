@@ -51,7 +51,11 @@ Srovnáme-li roky 2006 a 2018, kupní síla obyvatel se u obou potravin zvýšil
 
 *3) Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?*
 
-Z analyzovaných kategorií vykazuje nejnižší průměrný meziroční nárůst cen **Cukr krystalový**. Jeho cena rostla v průběhu sledovaného období nejpomaleji ze všech sledovaných potravin.
+**Cukr krystalový** zdražuje nejpomaleji s průměrným **meziročním nárůstem -1.92 %** – jeho cena tedy v průměru každý rok dokonce klesala.
+
+**Záporný nárůst** mají jen dvě kategorie – cukr (-1.92 %) a rajská jablka (-0.74 %), jejich cena tedy v průměru klesala
+**Nejrychleji zdražovaly** papriky (+7.29 %) a máslo (+6.67 %)
+Mléko a chléb (základní potraviny) jsou někde uprostřed – mléko +2.98 %, chléb +3.97 %
 
 *4) Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?*
 
