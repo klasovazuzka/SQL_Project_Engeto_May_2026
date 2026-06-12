@@ -76,3 +76,13 @@ Data nepotrzují přímou závislost mezi HDP a mzdami/cenami potravin. Několik
 Z dat vyplývá, že výška HDP nemá jednoznačný a přímý vliv na vývoj mezd ani cen potravin. V některých letech jako například 2017 lze pozorovat souběžný růst všech tří ukazatelů, avšak v jiných letech jako 2009 nebo 2012 se ukazatele vyvíjely zcela odlišně nebo dokonce protichůdně. Data tedy nepodporují závěr, že by růst HDP automaticky způsoboval výraznější růst mezd či cen potravin ve stejném nebo následujícím roce.
 
 ## Závěr projektu
+
+Cílem projektu bylo analyzovat dostupnost základních potravin v závislosti na vývoji mezd v České republice a zodpovědět pět výzkumných otázek na základě dat z Portálu otevřených dat ČR.
+
+Z analýzy vyplývá, že **životní úroveň obyvatel ČR se ve sledovaném období 2006–2018 celkově zlepšila**. 
+Mzdy dlouhodobě rostly napříč všemi odvětvími a kupní síla obyvatel se zvýšila – za průměrnou mzdu si bylo v roce 2018 možné koupit více mléka i chleba než v roce 2006. Ceny potravin sice také rostly, avšak k dramatickému propadu kupní síly nedošlo – rozdíl mezi růstem cen a mezd nikdy nepřekročil kritickou hranici 10 %.
+
+Zajímavým zjištěním je, že ne všechny potraviny zdražovaly stejným tempem. Zatímco cukr krystalový byl v průměru každý rok levnější, papriky a máslo zdražovaly výrazně rychleji než průměrná mzda. To naznačuje, že struktura výdajů domácností se v čase měnila v závislosti na konkrétních kategoriích potravin.
+Makroekonomická analýza ukázala, že vztah mezi HDP, mzdami a cenami potravin není přímočarý. Ekonomické šoky jako finanční krize v roce 2009 se projevily poklesem HDP, ale mzdy přesto rostly. Naopak v roce 2013 stagnující HDP doprovázelo snižování mezd i růst cen potravin.
+
+Celkově data ukazují, že **česká ekonomika** ve sledovaném období fungovala relativně stabilně a obyvatelé si mohli základní potraviny dovolit ve větším množství než na začátku sledovaného období.
