@@ -79,10 +79,9 @@ Z dat vyplývá, že výška HDP nemá jednoznačný a přímý vliv na vývoj m
 
 Cílem projektu bylo analyzovat dostupnost základních potravin v závislosti na vývoji mezd v České republice a zodpovědět pět výzkumných otázek na základě dat z Portálu otevřených dat ČR.
 
-Z analýzy vyplývá, že **životní úroveň obyvatel ČR se ve sledovaném období 2006–2018 celkově zlepšila**. 
-Mzdy dlouhodobě rostly napříč všemi odvětvími a kupní síla obyvatel se zvýšila – za průměrnou mzdu si bylo v roce 2018 možné koupit více mléka i chleba než v roce 2006. Ceny potravin sice také rostly, avšak k dramatickému propadu kupní síly nedošlo – rozdíl mezi růstem cen a mezd nikdy nepřekročil kritickou hranici 10 %.
+Analýza dat za období 2006–2018 ukazuje, že **životní úroveň obyvatel ČR se v dlouhodobém horizontu zlepšovala**. 
 
-Zajímavým zjištěním je, že ne všechny potraviny zdražovaly stejným tempem. Zatímco cukr krystalový byl v průměru každý rok levnější, papriky a máslo zdražovaly výrazně rychleji než průměrná mzda. To naznačuje, že struktura výdajů domácností se v čase měnila v závislosti na konkrétních kategoriích potravin.
-Makroekonomická analýza ukázala, že vztah mezi HDP, mzdami a cenami potravin není přímočarý. Ekonomické šoky jako finanční krize v roce 2009 se projevily poklesem HDP, ale mzdy přesto rostly. Naopak v roce 2013 stagnující HDP doprovázelo snižování mezd i růst cen potravin.
-
-Celkově data ukazují, že **česká ekonomika** ve sledovaném období fungovala relativně stabilně a obyvatelé si mohli základní potraviny dovolit ve větším množství než na začátku sledovaného období.
+- Mzdy rostly napříč všemi odvětvími, přičemž kupní síla obyvatel se zvýšila — v roce 2018 bylo za průměrnou mzdu možné pořídit více mléka i chleba než v roce 2006. 
+- Ceny potravin se vyvíjely nerovnoměrně: zatímco cukr a rajská jablka v průměru zlevňovala, papriky a máslo zdražovaly nejvýrazněji. 
+- Zásadní je zjištění, že v žádném sledovaném roce nepřekročil rozdíl mezi růstem cen potravin a mezd kritickou hranici 10 %, což svědčí o relativní stabilitě kupní síly obyvatel. 
+- Vztah mezi HDP a vývojem mezd či cen potravin se ukázal jako nepřímočarý — data nepodporují jednoduchou závislost mezi těmito ukazateli, neboť v různých letech se vyvíjely nezávisle nebo dokonce protichůdně.
